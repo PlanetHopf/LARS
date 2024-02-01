@@ -1,0 +1,13 @@
+$url = "https://scholar.google.com/scholar?start=10&q=polytopes+and+emergent+evolution+of+time&hl=en&as_sdt=0,45"
+$response = Invoke-WebRequest -Uri $url -UseBasicParsing
+
+# Split the content at each occurrence of "<div class="gs_ri">"
+$splitContent = $response.Content -split '<div class="gs_ri">'
+
+foreach ($content in $splitContent) {
+    $titleMatch = $content | Select-String -Pattern '<h3 class="gs_rt".*?>(.*?)</a></h3>' -AllMatches
+    if ($titleMatch.Matches.Count -gt 0) {
+        $title = $titleMatch.Matches.Groups[1].Value -replace '<.*?>', '' -replace '&quot;', '"' -replace '&#39;', "'"
+        Write-Output $title
+    }
+}
