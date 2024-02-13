@@ -1,4 +1,4 @@
-# Project Title: 
+# Project Title:
 An automation of Lexicons, Appendixes, and References from Articles and their Abstracts. Called L.A.R.s
 # Team Members:
 Peter Call
