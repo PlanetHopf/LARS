@@ -2,3 +2,5 @@ We plan on communicating through call and texting initially, and adapting to oth
 
 #Tools & Stuff
 https://automatetheboringstuff.com/2e/chapter12/
+
+This is a new line
