@@ -47,6 +47,15 @@ def extract_references(html_content):
         references.append(ref.get_text())
     return references
 
+def write_to_file(page_title, summary, references):
+    file_name = f"{page_title}_info.txt"
+    with open(file_name, "w", encoding="utf-8") as file:
+        file.write("Summary:\n")
+        file.write(summary + "\n\n")
+        file.write("References:\n")
+        for i, ref in enumerate(references, start=1):
+            file.write(f"Reference {i}: {ref}\n")
+
 page_title = "Artificial Intelligence"
 html_content = get_wikipedia_page_content(page_title)
 
@@ -59,5 +68,8 @@ if html_content:
     print("\nReferences:")
     for i, ref in enumerate(references, start=1):
         print(f"Reference {i}: {ref}")
+
+    write_to_file(page_title, summary, references)
+    print(f"\nData written to {page_title}_info.txt")
 else:
     print("Failed to get page content.")
