@@ -19,8 +19,3 @@ class TestExtractReferences(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
-class TestExtractFunction(unittest.TestCase):
-    def test_extract_references(self):
-        html_content= []
-        self.assertTrue(data['parse']['text']['*'])
