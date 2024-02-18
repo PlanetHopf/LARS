@@ -18,3 +18,5 @@ Copy and paste the .png int the data side when you upload the image to the repos
 ![Second run of test_wiki.py. Gives the same error message.](Ian_test2.png)
 
 ![Tried running test_wikipedia_scraper.py. Same error message as before. Not sure why it will not recognize BeautifulSoup](Ian_test3.png)
+
+![Okay! Had to install beautifulsoup on the command line and it worked!](Ian_test4.png)
