@@ -3,10 +3,10 @@
 
 Copy and paste the .png int the data side when you upload the image to the repository
 
-![Description of the image](![alt text](image.png))
+![This is a test image to see if it was working](![alt text](image.png))
 
 
-![Description of the image](![alt text](image-1.png))
+![This is another test image as well](![alt text](image-1.png))
 
 ![Description of the image](Image4test.png)
 )
@@ -22,3 +22,7 @@ Copy and paste the .png int the data side when you upload the image to the repos
 ![Okay! Had to install beautifulsoup on the command line and it worked!](Ian_test4.png)
 
 ![Test for the summary chunk](Ian_test5.png)
+
+
+As of 11:41 2/17/24 The following experiences were had:
+Ian and I worked on the unit tests, and while working on them we decided to do some simple checks on some code we already had from some data we can readily collect. While working on it we thought it would be a good idea to create a centralized location to put our homework so we don't have to run into issues as last time. Also, these eases up on any mistakes sharing information. Additionally
