@@ -1,0 +1,857 @@
+Summary:
+
+
+
+References:
+Reference 1: This list of intelligent traits is based on the topics covered by the major AI textbooks, including: Russell & Norvig (2021), Luger & Stubblefield (2004), Poole, Mackworth & Goebel (1998) and Nilsson (1998)
+Reference 2: This list of tools is based on the topics covered by the major AI textbooks, including: Russell & Norvig (2021), Luger & Stubblefield (2004), Poole, Mackworth & Goebel (1998) and Nilsson (1998)
+Reference 3: It is among the reasons that expert systems proved to be inefficient for capturing knowledge.[30][31]
+Reference 4:
+"Rational agent" is general term used in economics, philosophy and theoretical artificial intelligence. It can refer to anything that directs its behavior to accomplish goals, such as a person, an animal, a corporation, a nation, or, in the case of AI, a computer program.
+Reference 5: Alan Turing discussed the centrality of learning as early as 1950, in his classic paper "Computing Machinery and Intelligence".[42] In 1956, at the original Dartmouth AI summer conference, Ray Solomonoff wrote a report on unsupervised probabilistic machine learning: "An Inductive Inference Machine".[43]
+Reference 6: See AI winter § Machine translation and the ALPAC report of 1966
+Reference 7:
+Compared with symbolic logic, formal Bayesian inference is computationally expensive. For inference to be tractable, most observations must be conditionally independent of one another. AdSense uses a Bayesian network with over 300 million edges to learn which ads to serve.[87]
+Reference 8: Expectation-maximization, one of the most popular algorithms in machine learning, allows clustering in the presence of unknown latent variables.[89]
+Reference 9:
+Some form of deep neural networks (without a specific learning algorithm) were described by:
+Alan Turing (1948);[113]
+Frank Rosenblatt(1957);[113]
+Karl Steinbuch and Roger David Joseph (1961).[114]
+Deep or recurrent networks that learned (or used gradient descent) were developed by:
+Ernst Ising and Wilhelm Lenz (1925);[115]
+Oliver Selfridge (1959);[114]
+Alexey Ivakhnenko and Valentin Lapa (1965);[115]
+Kaoru Nakano (1977);[116]
+Shun-Ichi Amari (1972);[116]
+John Joseph Hopfield (1982).[116]
+Backpropagation was independently discovered by:
+Henry J. Kelley (1960);[113]
+Arthur E. Bryson (1962);[113]
+Stuart Dreyfus (1962);[113]
+Arthur E. Bryson and Yu-Chi Ho (1969);[113]
+Seppo Linnainmaa (1970);[117]
+Paul Werbos (1974).[113]
+In fact, backpropagation and gradient descent are straight forward applications of Gottfried Leibniz' chain rule in calculus (1676),[118] and is essentially identical (for one layer) to the method of least squares, developed independently by Johann Carl Friedrich Gauss (1795) and Adrien-Marie Legendre (1805).[119] There are probably many others, yet to be discovered by historians of science.
+Reference 10: Geoffrey Hinton said, of his work on neural networks in the 1990s, "our labeled datasets were thousands of times too small. [And] our computers were millions of times too slow"[120]
+Reference 11: Including Jon Kleinberg (Cornell), Sendhil Mullainathan (University of Chicago), Cynthia Chouldechova (Carnegie Mellon) and Sam Corbett-Davis (Stanford)[167]
+Reference 12: Moritz Hardt (a director at the Max Planck Institute for Intelligent Systems) argues that machine learning "is fundamentally the wrong tool for a lot of domains, where you're trying to design interventions and mechanisms that change the world."[172]
+Reference 13: When the law was passed in 2018, it still contained a form of this provision.
+Reference 14: This is the United Nations' definition, and includes things like land mines as well.[185]
+Reference 15: See table 4; 9% is both the OECD average and the US average.[198]
+Reference 16: Sometimes called a "robopocalypse".[205]
+Reference 17: "Electronic brain" was the term used by the press around this time.[245]
+Reference 18:
+Daniel Crevier wrote, "the conference is generally recognized as the official birthdate of the new science."[249] Russell and Norvig called the conference "the inception of artificial intelligence."[247]
+Reference 19:
+Russell and Norvig wrote "for the next 20 years the field would be dominated by these people and their students."[250]
+Reference 20:
+Russell and Norvig wrote "it was astonishing whenever a computer did anything kind of smartish".[251]
+Reference 21:
+The programs described are Arthur Samuel's checkers program for the IBM 701, Daniel Bobrow's STUDENT, Newell and Simon's Logic Theorist and Terry Winograd's SHRDLU.
+Reference 22: Russell and Norvig write: "in almost all cases, these early systems failed on more difficult problems"[252]
+Reference 23:
+Embodied approaches to AI[258] were championed by Hans Moravec[259] and Rodney Brooks[260] and went by many names: Nouvelle AI.[260] Developmental robotics,[261]
+Reference 24: Matteo Wong wrote in The Atlantic: "Whereas for decades, computer-science fields such as natural-language processing, computer vision, and robotics used extremely different methods, now they all use a programming method called "deep learning." As a result, their code and approaches have become more similar, and their models are easier to integrate into one another."[267]
+Reference 25: Jack Clark wrote in Bloomberg: "After a half-decade of quiet breakthroughs in artificial intelligence, 2015 has been a landmark year. Computers are smarter and learning faster than ever," and noted that the number of software projects that use machine learning at Google increased from a "sporadic usage" in 2012 to more than 2,700 projects in 2015.[269]
+Reference 26: See Problem of other minds
+Reference 27: Nils Nilsson wrote in 1983: "Simply put, there is wide disagreement in the field about what AI is all about."[283]
+Reference 28:
+Daniel Crevier wrote that "time has proven the accuracy and perceptiveness of some of Dreyfus's comments. Had he formulated them less aggressively, constructive actions they suggested might have been taken much earlier."[288]
+Reference 29:
+Searle presented this definition of "Strong AI" in 1999.[298] Searle's original formulation was "The appropriately programmed computer really is a mind, in the sense that computers given the right programs can be literally said to understand and have other cognitive states."[299] Strong AI is defined similarly by Russell and Norvig: "Stong AI – the assertion that machines that do so are actually thinking (as opposed to simulating thinking)."[300]
+Reference 30: Google (2016).
+Reference 31: Copeland, J., ed. (2004). The Essential Turing: the ideas that gave birth to the computer age. Oxford, England: Clarendon Press. ISBN 0-19-825079-7.
+Reference 32:
+Dartmouth workshop:
+Russell & Norvig (2021, p. 18)
+McCorduck (2004, pp. 111–136)
+NRC (1999, pp. 200–201)
+The proposal:
+McCarthy et al. (1955)
+
+Reference 33:
+Successful programs the 1960s:
+
+McCorduck (2004, pp. 243–252)
+Crevier (1993, pp. 52–107)
+Moravec (1988, p. 9)
+Russell & Norvig (2021, pp. 19–21)
+
+Reference 34:
+Funding initiatives in the early 1980s: Fifth Generation Project (Japan), Alvey (UK), Microelectronics and Computer Technology Corporation (US), Strategic Computing Initiative (US):
+
+McCorduck (2004, pp. 426–441)
+Crevier (1993, pp. 161–162, 197–203, 211, 240)
+Russell & Norvig (2021, p. 23)
+NRC (1999, pp. 210–211)
+Newquist (1994, pp. 235–248)
+
+Reference 35:
+First AI Winter, Lighthill report, Mansfield Amendment
+Crevier (1993, pp. 115–117)
+Russell & Norvig (2021, pp. 21–22)
+NRC (1999, pp. 212–213)
+Howe (1994)
+Newquist (1994, pp. 189–201)
+
+Reference 36:
+Second AI Winter:
+Russell & Norvig (2021, p. 24)
+McCorduck (2004, pp. 430–435)
+Crevier (1993, pp. 209–210)
+NRC (1999, pp. 214–216)
+Newquist (1994, pp. 301–318)
+
+Reference 37:
+Deep learning revolution, AlexNet:
+Goldman (2022)
+Russell & Norvig (2021, p. 26)
+McKinsey (2018)
+
+Reference 38: Toews (2023).
+Reference 39: Frank (2023).
+Reference 40:
+Artificial general intelligence:
+Russell & Norvig (2021, pp. 32–33, 1020–1021)
+Proposal for the modern version:
+Pennachin & Goertzel (2007)
+Warnings of overspecialization in AI from leading researchers:
+Nilsson (1995)
+McCarthy (2007)
+Beal & Winston (2009)
+
+Reference 41: Russell & Norvig (2021, §1.2).
+Reference 42:
+Problem solving, puzzle solving, game playing and deduction:
+
+Russell & Norvig (2021, chpt. 3–5)
+Russell & Norvig (2021, chpt. 6) (constraint satisfaction)
+Poole, Mackworth & Goebel (1998, chpt. 2, 3, 7, 9)
+Luger & Stubblefield (2004, chpt. 3, 4, 6, 8)
+Nilsson (1998, chpt. 7–12)
+
+Reference 43:
+Uncertain reasoning:
+Russell & Norvig (2021, chpt. 12–18)
+Poole, Mackworth & Goebel (1998, pp. 345–395)
+Luger & Stubblefield (2004, pp. 333–381)
+Nilsson (1998, chpt. 7–12)
+
+Reference 44:
+Intractability and efficiency and the combinatorial explosion:
+
+Russell & Norvig (2021, p. 21)
+
+Reference 45:
+Psychological evidence of the prevalence sub-symbolic reasoning and knowledge:
+Kahneman (2011)
+Dreyfus & Dreyfus (1986)
+Wason & Shapiro (1966)
+Kahneman, Slovic & Tversky (1982)
+
+Reference 46:
+Knowledge representation and knowledge engineering:
+Russell & Norvig (2021, chpt. 10)
+Poole, Mackworth & Goebel (1998, pp. 23–46, 69–81, 169–233, 235–277, 281–298, 319–345)
+Luger & Stubblefield (2004, pp. 227–243),
+Nilsson (1998, chpt. 17.1–17.4, 18)
+
+Reference 47: Smoliar & Zhang (1994).
+Reference 48: Neumann & Möller (2008).
+Reference 49: Kuperman, Reichley & Bailey (2006).
+Reference 50: McGarry (2005).
+Reference 51: Bertini, Del Bimbo & Torniai (2006).
+Reference 52: Russell & Norvig (2021), pp. 272.
+Reference 53:
+Representing categories and relations: Semantic networks, description logics, inheritance (including frames and scripts):
+Russell & Norvig (2021, §10.2 & 10.5),
+Poole, Mackworth & Goebel (1998, pp. 174–177),
+Luger & Stubblefield (2004, pp. 248–258),
+Nilsson (1998, chpt. 18.3)
+
+Reference 54: Representing events and time:Situation calculus, event calculus, fluent calculus (including solving the frame problem):
+Russell & Norvig (2021, §10.3),
+Poole, Mackworth & Goebel (1998, pp. 281–298),
+Nilsson (1998, chpt. 18.2)
+
+Reference 55:
+Causal calculus:
+Poole, Mackworth & Goebel (1998, pp. 335–337)
+
+Reference 56:
+Representing knowledge about knowledge: Belief calculus, modal logics:
+Russell & Norvig (2021, §10.4),
+Poole, Mackworth & Goebel (1998, pp. 275–277)
+
+Reference 57:
+Default reasoning, Frame problem, default logic, non-monotonic logics, circumscription, closed world assumption, abduction:
+Russell & Norvig (2021, §10.6)
+Poole, Mackworth & Goebel (1998, pp. 248–256, 323–335)
+Luger & Stubblefield (2004, pp. 335–363)
+Nilsson (1998, ~18.3.3)
+(Poole et al. places abduction under "default reasoning". Luger et al. places this under "uncertain reasoning").
+Reference 58:
+Breadth of commonsense knowledge:
+Lenat & Guha (1989, Introduction)
+Crevier (1993, pp. 113–114),
+Moravec (1988, p. 13),
+Russell & Norvig (2021, pp. 241, 385, 982) (qualification problem)
+
+Reference 59: Newquist (1994), p. 296.
+Reference 60: Crevier (1993), pp. 204–208.
+Reference 61: Russell & Norvig (2021), p. 528.
+Reference 62:
+Automated planning:
+
+Russell & Norvig (2021, chpt. 11).
+
+Reference 63:
+Automated decision making, Decision theory:
+
+Russell & Norvig (2021, chpt. 16–18).
+
+Reference 64:
+Classical planning:
+
+Russell & Norvig (2021, Section 11.2).
+
+Reference 65:
+Sensorless or "conformant" planning, contingent planning, replanning (a.k.a online planning):
+
+Russell & Norvig (2021, Section 11.5).
+
+Reference 66:
+Uncertain preferences:
+Russell & Norvig (2021, Section 16.7)
+Inverse reinforcement learning:
+Russell & Norvig (2021, Section 22.6)
+
+Reference 67:
+Information value theory:
+
+Russell & Norvig (2021, Section 16.6).
+
+Reference 68:
+Markov decision process:
+
+Russell & Norvig (2021, chpt. 17).
+
+Reference 69:
+Game theory and multi-agent decision theory:
+
+Russell & Norvig (2021, chpt. 18).
+
+Reference 70:
+Learning:
+Russell & Norvig (2021, chpt. 19–22)
+Poole, Mackworth & Goebel (1998, pp. 397–438)
+Luger & Stubblefield (2004, pp. 385–542)
+Nilsson (1998, chpt. 3.3, 10.3, 17.5, 20)
+
+Reference 71: Turing (1950).
+Reference 72: Solomonoff (1956).
+Reference 73:
+Unsupervised learning:
+Russell & Norvig (2021, pp. 653) (definition)
+Russell & Norvig (2021, pp. 738–740) (cluster analysis)
+Russell & Norvig (2021, pp. 846–860) (word embedding)
+
+Reference 74:
+Supervised learning:
+Russell & Norvig (2021, §19.2) (Definition)
+Russell & Norvig (2021, Chpt. 19–20) (Techniques)
+
+Reference 75:
+Reinforcement learning:
+Russell & Norvig (2021, chpt. 22)
+Luger & Stubblefield (2004, pp. 442–449)
+
+Reference 76:
+Transfer learning:
+Russell & Norvig (2021, pp. 281)
+The Economist (2016)
+
+Reference 77: "Artificial Intelligence (AI): What Is AI and How Does It Work? | Built In". builtin.com. Retrieved 30 October 2023.
+Reference 78:
+Computational learning theory:
+Russell & Norvig (2021, pp. 672–674)
+Jordan & Mitchell (2015)
+
+Reference 79:
+Natural language processing (NLP):
+Russell & Norvig (2021, chpt. 23–24)
+Poole, Mackworth & Goebel (1998, pp. 91–104)
+Luger & Stubblefield (2004, pp. 591–632)
+
+Reference 80:
+Subproblems of NLP:
+Russell & Norvig (2021, pp. 849–850)
+
+Reference 81: Russell & Norvig (2021), p. 856–858.
+Reference 82: Dickson (2022).
+Reference 83: Modern statistical and deep learning approaches to NLP:
+Russell & Norvig (2021, chpt. 24)
+Cambria & White (2014)
+
+Reference 84: Vincent (2019).
+Reference 85: Russell & Norvig (2021), p. 875–878.
+Reference 86: Bushwick (2023).
+Reference 87:
+Computer vision:
+Russell & Norvig (2021, chpt. 25)
+Nilsson (1998, chpt. 6)
+
+Reference 88: Russell & Norvig (2021), pp. 849–850.
+Reference 89: Russell & Norvig (2021), pp. 895–899.
+Reference 90: Russell & Norvig (2021), pp. 899–901.
+Reference 91: Russell & Norvig (2021), pp. 931–938.
+Reference 92: MIT AIL (2014).
+Reference 93:
+Affective computing:
+Thro (1993)
+Edelson (1991)
+Tao & Tan (2005)
+Scassellati (2002)
+
+Reference 94: Waddell (2018).
+Reference 95: Poria et al. (2017).
+Reference 96:
+Search algorithms:
+Russell & Norvig (2021, Chpt. 3–5)
+Poole, Mackworth & Goebel (1998, pp. 113–163)
+Luger & Stubblefield (2004, pp. 79–164, 193–219)
+Nilsson (1998, chpt. 7–12)
+
+Reference 97:
+State space search:
+Russell & Norvig (2021, chpt. 3)
+
+Reference 98: Russell & Norvig (2021), §11.2.
+Reference 99: Uninformed searches (breadth first search, depth-first search and general state space search):
+Russell & Norvig (2021, §3.4)
+Poole, Mackworth & Goebel (1998, pp. 113–132)
+Luger & Stubblefield (2004, pp. 79–121)
+Nilsson (1998, chpt. 8)
+
+Reference 100:
+Heuristic or informed searches (e.g., greedy best first and A*):
+
+Russell & Norvig (2021, s§3.5)
+Poole, Mackworth & Goebel (1998, pp. 132–147)
+Poole & Mackworth (2017, §3.6)
+Luger & Stubblefield (2004, pp. 133–150)
+
+Reference 101:
+Adversarial search:
+Russell & Norvig (2021, chpt. 5)
+
+Reference 102: Local or "optimization" search:
+
+Russell & Norvig (2021, chpt. 4)
+
+Reference 103: Singh Chauhan, Nagesh (18 December 2020). "Optimization Algorithms in Neural Networks". KDnuggets. Retrieved 13 January 2024.
+Reference 104:
+Evolutionary computation:
+Russell & Norvig (2021, §4.1.2)
+
+Reference 105: Merkle & Middendorf (2013).
+Reference 106:
+Logic:
+Russell & Norvig (2021, chpt. 6–9)
+Luger & Stubblefield (2004, pp. 35–77)
+Nilsson (1998, chpt. 13–16)
+
+Reference 107:
+Propositional logic:
+Russell & Norvig (2021, chpt. 6)
+Luger & Stubblefield (2004, pp. 45–50)
+Nilsson (1998, chpt. 13)
+
+Reference 108:
+First-order logic and features such as equality:
+Russell & Norvig (2021, chpt. 7)
+Poole, Mackworth & Goebel (1998, pp. 268–275),
+Luger & Stubblefield (2004, pp. 50–62),
+Nilsson (1998, chpt. 15)
+
+Reference 109:
+Logical inference:
+Russell & Norvig (2021, chpt. 10)
+
+Reference 110: Russell & Norvig (2021), §8.3.1.
+Reference 111:
+Resolution and unification:
+Russell & Norvig (2021, §7.5.2, §9.2, §9.5)
+
+Reference 112: Forward chaining, backward chaining, Horn clauses, and logical deduction as search:
+Russell & Norvig (2021, §9.3, §9.4)
+Poole, Mackworth & Goebel (1998, pp. ~46–52)
+Luger & Stubblefield (2004, pp. 62–73)
+Nilsson (1998, chpt. 4.2, 7.2)
+
+Reference 113:
+Fuzzy logic:
+Russell & Norvig (2021, pp. 214, 255, 459)
+Scientific American (1999)
+
+Reference 114:
+Stochastic methods for uncertain reasoning:
+Russell & Norvig (2021, Chpt. 12–18 and 20),
+Poole, Mackworth & Goebel (1998, pp. 345–395),
+Luger & Stubblefield (2004, pp. 165–191, 333–381),
+Nilsson (1998, chpt. 19)
+
+Reference 115:
+Bayesian networks:
+Russell & Norvig (2021, §12.5–12.6, §13.4–13.5, §14.3–14.5, §16.5, §20.2 -20.3),
+Poole, Mackworth & Goebel (1998, pp. 361–381),
+Luger & Stubblefield (2004, pp. ~182–190, ≈363–379),
+Nilsson (1998, chpt. 19.3–4)
+
+Reference 116: Domingos (2015), chapter 6.
+Reference 117:
+Bayesian inference algorithm:
+Russell & Norvig (2021, §13.3–13.5),
+Poole, Mackworth & Goebel (1998, pp. 361–381),
+Luger & Stubblefield (2004, pp. ~363–379),
+Nilsson (1998, chpt. 19.4 & 7)
+
+Reference 118: Domingos (2015), p. 210.
+Reference 119:
+Bayesian learning and the expectation-maximization algorithm:
+Russell & Norvig (2021, Chpt. 20),
+Poole, Mackworth & Goebel (1998, pp. 424–433),
+Nilsson (1998, chpt. 20)
+Domingos (2015, p. 210)
+
+Reference 120: Bayesian decision theory and Bayesian decision networks:
+Russell & Norvig (2021, §16.5)
+
+Reference 121:
+Stochastic temporal models:
+Russell & Norvig (2021, Chpt. 14)
+Hidden Markov model:
+Russell & Norvig (2021, §14.3)
+Kalman filters:
+Russell & Norvig (2021, §14.4)
+Dynamic Bayesian networks:
+Russell & Norvig (2021, §14.5)
+
+Reference 122:
+decision theory and decision analysis:
+Russell & Norvig (2021, Chpt. 16–18),
+Poole, Mackworth & Goebel (1998, pp. 381–394)
+
+Reference 123:
+Information value theory:
+Russell & Norvig (2021, §16.6)
+
+Reference 124: Markov decision processes and dynamic decision networks:
+Russell & Norvig (2021, chpt. 17)
+
+Reference 125: Game theory and mechanism design:
+Russell & Norvig (2021, chpt. 18)
+
+Reference 126:
+Statistical learning methods and classifiers:
+Russell & Norvig (2021, chpt. 20),
+
+Reference 127:
+Decision trees:
+Russell & Norvig (2021, §19.3)
+Domingos (2015, p. 88)
+
+Reference 128:
+Non-parameteric learning models such as K-nearest neighbor and support vector machines:
+Russell & Norvig (2021, §19.7)
+Domingos (2015, p. 187) (k-nearest neighbor)
+Domingos (2015, p. 88) (kernel methods)
+
+Reference 129: Domingos (2015), p. 152.
+Reference 130:
+Naive Bayes classifier:
+Russell & Norvig (2021, §12.6)
+Domingos (2015, p. 152)
+
+Reference 131:
+Neural networks:
+Russell & Norvig (2021, Chpt. 21),
+Domingos (2015, Chapter 4)
+
+Reference 132:
+Gradient calculation in computational graphs, backpropagation, automatic differentiation:
+Russell & Norvig (2021, §21.2),
+Luger & Stubblefield (2004, pp. 467–474),
+Nilsson (1998, chpt. 3.3)
+
+Reference 133:
+Universal approximation theorem:
+Russell & Norvig (2021, p. 752)
+The theorem:
+Cybenko (1988)
+Hornik, Stinchcombe & White (1989)
+
+Reference 134:
+Feedforward neural networks:
+Russell & Norvig (2021, §21.1)
+
+Reference 135:
+Recurrent neural networks:
+Russell & Norvig (2021, §21.6)
+
+Reference 136:
+Perceptrons:
+Russell & Norvig (2021, pp. 21, 22, 683, 22)
+
+Reference 137:
+Deep learning:
+Russell & Norvig (2021, Chpt. 21)
+Goodfellow, Bengio & Courville (2016)
+Hinton et al. (2016)
+Schmidhuber (2015)
+
+Reference 138:
+Convolutional neural networks:
+Russell & Norvig (2021, §21.3)
+
+Reference 139: Deng & Yu (2014), pp. 199–200.
+Reference 140: Ciresan, Meier & Schmidhuber (2012).
+Reference 141: Russell & Norvig (2021), p. 751.
+Reference 142: Russell & Norvig (2021), p. 785.
+Reference 143: Schmidhuber (2022), §5.
+Reference 144: Schmidhuber (2022), §6.
+Reference 145: Schmidhuber (2022), §7.
+Reference 146: Schmidhuber (2022), §8.
+Reference 147: Schmidhuber (2022), §2.
+Reference 148: Schmidhuber (2022), §3.
+Reference 149: Quoted in Christian (2020, p. 22)
+Reference 150: Smith (2023).
+Reference 151: "Explained: Generative AI". 9 November 2023.
+Reference 152: "AI Writing and Content Creation Tools". MIT Sloan Teaching & Learning Technologies. Retrieved 25 December 2023.
+Reference 153: Marmouyet (2023).
+Reference 154: Kobielus (2019).
+Reference 155: Davenport, T; Kalakota, R (June 2019). "The potential for artificial intelligence in healthcare". Future Healthc J. 6 (2): 94–98. doi:10.7861/futurehosp.6-2-94. PMC 6616181. PMID 31363513.
+Reference 156: Bax, Monique; Thorpe, Jordan; Romanov, Valentin (December 2023). "The future of personalized cardiovascular medicine demands 3D and 4D printing, stem cells, and artificial intelligence". Frontiers in Sensors. 4. doi:10.3389/fsens.2023.1294721. ISSN 2673-5067.
+Reference 157: Jumper, J; Evans, R; Pritzel, A (2021). "Highly accurate protein structure prediction with AlphaFold". Nature. 596 (7873): 583–589. Bibcode:2021Natur.596..583J. doi:10.1038/s41586-021-03819-2. PMC 8371605. PMID 34265844.
+Reference 158: "AI discovers new class of antibiotics to kill drug-resistant bacteria". 20 December 2023.
+Reference 159: Grant, Eugene F.; Lardner, Rex (25 July 1952). "The Talk of the Town – It". The New Yorker. ISSN 0028-792X. Retrieved 28 January 2024.
+Reference 160: Anderson, Mark Robert (11 May 2017). "Twenty years on from Deep Blue vs Kasparov: how a chess match started the big data revolution". The Conversation. Retrieved 28 January 2024.
+Reference 161: Markoff, John (16 February 2011). "Computer Wins on 'Jeopardy!': Trivial, It's Not". The New York Times. ISSN 0362-4331. Retrieved 28 January 2024.
+Reference 162: Byford, Sam (27 May 2017). "AlphaGo retires from competitive Go after defeating world number one 3-0". The Verge. Retrieved 28 January 2024.
+Reference 163: Brown, Noam; Sandholm, Tuomas (30 August 2019). "Superhuman AI for multiplayer poker". Science. 365 (6456): 885–890. doi:10.1126/science.aay2400. ISSN 0036-8075.
+Reference 164: "MuZero: Mastering Go, chess, shogi and Atari without rules". Google DeepMind. 23 December 2020. Retrieved 28 January 2024.
+Reference 165: Sample, Ian (30 October 2019). "AI becomes grandmaster in 'fiendishly complex' StarCraft II". The Guardian. ISSN 0261-3077. Retrieved 28 January 2024.
+Reference 166: Wurman, P.R.; Barrett, S.; Kawamoto, K. (2022). "Outracing champion Gran Turismo drivers with deep reinforcement learning". Nature 602. 602 (7896): 223–228. doi:10.1038/s41586-021-04357-7.
+Reference 167: Knight, Will. "The US and 30 Other Nations Agree to Set Guardrails for Military AI". Wired. ISSN 1059-1028. Retrieved 24 January 2024.
+Reference 168: Marcelline, Marco (27 May 2023). "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot". PCMag. Retrieved 28 January 2024.
+Reference 169: Lu, Donna (31 March 2023). "Misinformation, mistakes and the Pope in a puffer: what rapidly evolving AI can – and can't – do". The Guardian. ISSN 0261-3077. Retrieved 28 January 2024.
+Reference 170: "Fake image of Pentagon explosion causes real dip on Wall Street". euronews. 23 May 2023. Retrieved 28 January 2024.
+Reference 171: Ransbotham, Sam; Kiron, David; Gerbert, Philipp; Reeves, Martin (6 September 2017). "Reshaping Business With Artificial Intelligence". MIT Sloan Management Review.
+Reference 172: Simonite (2016).
+Reference 173: Russell & Norvig (2021), p. 987.
+Reference 174: Laskowski (2023).
+Reference 175: GAO (2022).
+Reference 176: Valinsky (2019).
+Reference 177: Russell & Norvig (2021), p. 991.
+Reference 178: Russell & Norvig (2021), p. 991–992.
+Reference 179: Christian (2020), p. 63.
+Reference 180: Vincent (2022).
+Reference 181: Reisner (2023).
+Reference 182: Alter & Harris (2023).
+Reference 183: Nicas (2018).
+Reference 184: "Trust and Distrust in America". 22 July 2019.
+Reference 185: Williams (2023).
+Reference 186: Taylor & Hern (2023).
+Reference 187: Rose (2023).
+Reference 188: CNA (2019).
+Reference 189: Goffrey (2008), p. 17.
+Reference 190: Berdahl et al. (2023); Goffrey (2008, p. 17); Rose (2023); Russell & Norvig (2021, p. 995)
+Reference 191:
+Algorithmic bias and Fairness (machine learning):
+Russell & Norvig (2021, section 27.3.3)
+Christian (2020, Fairness)
+
+Reference 192: Christian (2020), p. 25.
+Reference 193: Russell & Norvig (2021), p. 995.
+Reference 194: Grant & Hill (2023).
+Reference 195: Larson & Angwin (2016).
+Reference 196: Christian (2020), p. 67–70.
+Reference 197: Christian (2020, pp. 67–70); Russell & Norvig (2021, pp. 993–994)
+Reference 198: Russell & Norvig (2021, p. 995); Lipartito (2011, p. 36); Goodman & Flaxman (2017, p. 6); Christian (2020, pp. 39–40, 65)
+Reference 199: Quoted in Christian (2020, p. 65).
+Reference 200: Russell & Norvig (2021, p. 994); Christian (2020, pp. 40, 80–81)
+Reference 201: Quoted in Christian (2020, p. 80)
+Reference 202: Dockrill (2022).
+Reference 203: Sample (2017).
+Reference 204: "Black Box AI". 16 June 2023.
+Reference 205: Christian (2020), p. 110.
+Reference 206: Christian (2020), pp. 88–91.
+Reference 207: Christian (2020, p. 83); Russell & Norvig (2021, p. 997)
+Reference 208: Christian (2020), p. 91.
+Reference 209: Christian (2020), p. 83.
+Reference 210: Verma (2021).
+Reference 211: Rothman (2020).
+Reference 212: Christian (2020), p. 105-108.
+Reference 213: Christian (2020), pp. 108–112.
+Reference 214: Russell & Norvig (2021), p. 989.
+Reference 215: Robitzski (2018); Sainato (2015)
+Reference 216: Russell & Norvig (2021), p. 987-990.
+Reference 217: Russell & Norvig (2021), p. 988.
+Reference 218: Harari (2018).
+Reference 219: Buckley, Chris; Mozur, Paul (22 May 2019). "How China Uses High-Tech Surveillance to Subdue Minorities". The New York Times.
+Reference 220: "Security lapse exposed a Chinese smart city surveillance system". 3 May 2019. Archived from the original on 7 March 2021. Retrieved 14 September 2020.
+Reference 221: "AI traffic signals to be installed in Bengaluru soon". NextBigWhat. 24 September 2019. Retrieved 1 October 2019.
+Reference 222: Urbina et al. (2022).
+Reference 223: Tarnoff, Ben (4 August 2023). "Lessons from Eliza". The Guardian Weekly. pp. 34–9.
+Reference 224: E McGaughey, 'Will Robots Automate Your Job Away? Full Employment, Basic Income, and Economic Democracy' (2022) 51(3) Industrial Law Journal 511–559 Archived 27 May 2023 at the Wayback Machine
+Reference 225: Ford & Colvin (2015);McGaughey (2022)
+Reference 226: IGM Chicago (2017).
+Reference 227: Arntz, Gregory & Zierahn (2016), p. 33.
+Reference 228: Lohr (2017); Frey & Osborne (2017); Arntz, Gregory & Zierahn (2016, p. 33)
+Reference 229: Morgenstern (2015).
+Reference 230: Mahdawi (2017); Thompson (2014)
+Reference 231: Zhou, Viola (11 April 2023). "AI is already taking video game illustrators' jobs in China". Rest of World. Retrieved 17 August 2023.
+Reference 232: Carter, Justin (11 April 2023). "China's game art industry reportedly decimated by growing AI use". Game Developer. Retrieved 17 August 2023.
+Reference 233: Cellan-Jones (2014).
+Reference 234: Russell & Norvig 2021, p. 1001.
+Reference 235: Bostrom (2014).
+Reference 236: Russell (2019).
+Reference 237: Bostrom (2014); Müller & Bostrom (2014); Bostrom (2015).
+Reference 238: Harari (2023).
+Reference 239: Müller & Bostrom (2014).
+Reference 240:
+Leaders' concerns about the existential risks of AI around 2015:
+Rawlinson (2015)
+Holley (2015)
+Gibbs (2014)
+Sainato (2015)
+
+Reference 241:
+Arguments that AI is not an imminent risk:
+Brooks (2014)
+Geist (2015)
+Madrigal (2015)
+Lee (2014)
+
+Reference 242: Christian (2020), pp. 67, 73.
+Reference 243: Valance (2023).
+Reference 244: Taylor, Josh (7 May 2023). "Rise of artificial intelligence is inevitable but should not be feared, 'father of AI' says". The Guardian. Retrieved 26 May 2023.
+Reference 245: Colton, Emma (7 May 2023). "'Father of AI' says tech fears misplaced: 'You cannot stop it'". Fox News. Retrieved 26 May 2023.
+Reference 246: Jones, Hessie (23 May 2023). "Juergen Schmidhuber, Renowned 'Father Of Modern AI,' Says His Life's Work Won't Lead To Dystopia". Forbes. Retrieved 26 May 2023.
+Reference 247: McMorrow, Ryan (19 December 2023). "Andrew Ng: 'Do we think the world is better off with more or less intelligence?'". Financial Times. Retrieved 30 December 2023.
+Reference 248: Levy, Steven (22 December 2023). "How Not to Be Stupid About AI, With Yann LeCun". Wired. Retrieved 30 December 2023.
+Reference 249: Yudkowsky (2008).
+Reference 250: Anderson & Anderson (2011).
+Reference 251: AAAI (2014).
+Reference 252: Wallach (2010).
+Reference 253: Russell (2019), p. 173.
+Reference 254: Alan Turing Institute (2019). "Understanding artificial intelligence ethics and safety" (PDF).
+Reference 255: Alan Turing Institute (2023). "AI Ethics and Governance in Practice" (PDF).
+Reference 256: Floridi, Luciano; Cowls, Josh (23 June 2019). "A Unified Framework of Five Principles for AI in Society". Harvard Data Science Review. 1 (1). doi:10.1162/99608f92.8cd550d1. S2CID 198775713.
+Reference 257: Buruk, Banu; Ekmekci, Perihan Elif; Arda, Berna (1 September 2020). "A critical perspective on guidelines for responsible and trustworthy artificial intelligence". Medicine, Health Care and Philosophy. 23 (3): 387–399. doi:10.1007/s11019-020-09948-1. ISSN 1572-8633. PMID 32236794. S2CID 214766800.
+Reference 258: Kamila, Manoj Kumar; Jasrotia, Sahil Singh (1 January 2023). "Ethical issues in the development of artificial intelligence: recognizing the risks". International Journal of Ethics and Systems. ahead-of-print (ahead-of-print). doi:10.1108/IJOES-05-2023-0107. ISSN 2514-9369. S2CID 259614124.
+Reference 259:
+Regulation of AI to mitigate risks:
+Berryhill et al. (2019)
+Barfield & Pagallo (2018)
+Iphofen & Kritikos (2019)
+Wirtz, Weyerer & Geyer (2018)
+Buiten (2019)
+
+Reference 260: Law Library of Congress (U.S.). Global Legal Research Directorate (2019).
+Reference 261: Vincent (2023).
+Reference 262: Stanford University (2023).
+Reference 263: UNESCO (2021).
+Reference 264: Kissinger (2021).
+Reference 265: Altman, Brockman & Sutskever (2023).
+Reference 266: VOA News (25 October 2023). "UN Announces Advisory Body on Artificial Intelligence".
+Reference 267: Edwards (2023).
+Reference 268: Kasperowicz (2023).
+Reference 269: Fox News (2023).
+Reference 270: Milmo, Dan (3 November 2023). "Hope or Horror? The great AI debate dividing its pioneers". The Guardian Weekly. pp. 10–12.
+Reference 271: "The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023". GOV.UK. 1 November 2023. Archived from the original on 1 November 2023. Retrieved 2 November 2023.
+Reference 272: "Countries agree to safe and responsible development of frontier AI in landmark Bletchley Declaration". GOV.UK (Press release). Archived from the original on 1 November 2023. Retrieved 1 November 2023.
+Reference 273: Berlinski (2000).
+Reference 274: "Google books ngram".
+Reference 275:
+AI's immediate precursors:
+McCorduck (2004, pp. 51–107)
+Crevier (1993, pp. 27–32)
+Russell & Norvig (2021, pp. 8–17)
+Moravec (1988, p. 3)
+
+Reference 276: Russell & Norvig (2021), p. 17.
+Reference 277: See "A Brief History of Computing" at AlanTuring.net.
+Reference 278: Crevier (1993), pp. 47–49.
+Reference 279: Russell & Norvig (2003), p. 17.
+Reference 280: Russell & Norvig (2003), p. 18.
+Reference 281: Russell & Norvig (2021), p. 21.
+Reference 282: Lighthill (1973).
+Reference 283: Russell & Norvig (2021), p. 22.
+Reference 284:
+Expert systems:
+Russell & Norvig (2021, pp. 23, 292)
+Luger & Stubblefield (2004, pp. 227–331)
+Nilsson (1998, chpt. 17.4)
+McCorduck (2004, pp. 327–335, 434–435)
+Crevier (1993, pp. 145–62, 197–203)
+Newquist (1994, pp. 155–183)
+
+Reference 285: Russell & Norvig (2021), p. 24.
+Reference 286: Nilsson (1998), p. 7.
+Reference 287: McCorduck (2004), pp. 454–462.
+Reference 288: Moravec (1988).
+Reference 289: Brooks (1990).
+Reference 290:
+Developmental robotics:
+Weng et al. (2001)
+Lungarella et al. (2003)
+Asada et al. (2009)
+Oudeyer (2010)
+
+Reference 291: Russell & Norvig (2021), p. 25.
+Reference 292:
+Crevier (1993, pp. 214–215)
+Russell & Norvig (2021, pp. 24, 26)
+
+Reference 293: Russell & Norvig (2021), p. 26.
+Reference 294:
+Formal and narrow methods adopted in the 1990s:
+Russell & Norvig (2021, pp. 24–26)
+McCorduck (2004, pp. 486–487)
+
+Reference 295:
+AI widely used in the late 1990s:
+Kurzweil (2005, p. 265)
+NRC (1999, pp. 216–222)
+Newquist (1994, pp. 189–201)
+
+Reference 296: Wong (2023).
+Reference 297:
+Moore's Law and AI:
+Russell & Norvig (2021, pp. 14, 27)
+
+Reference 298: Clark (2015b).
+Reference 299:
+Big data:
+Russell & Norvig (2021, p. 26)
+
+Reference 300: "Intellectual Property and Frontier Technologies". WIPO. Archived from the original on 2 April 2022. Retrieved 30 March 2022.
+Reference 301: DiFeliciantonio (2023).
+Reference 302: Goswami (2023).
+Reference 303: Turing (1950), p. 1.
+Reference 304:
+Turing's original publication of the Turing test in "Computing machinery and intelligence":
+Turing (1950)
+Historical influence and philosophical implications:
+Haugeland (1985, pp. 6–9)
+Crevier (1993, p. 24)
+McCorduck (2004, pp. 70–71)
+Russell & Norvig (2021, pp. 2 and 984)
+
+Reference 305: Turing (1950), Under "The Argument from Consciousness".
+Reference 306: Russell & Norvig (2021), chpt. 2.
+Reference 307: Russell & Norvig (2021), p. 3.
+Reference 308: Maker (2006).
+Reference 309: McCarthy (1999).
+Reference 310: Minsky (1986).
+Reference 311: "What Is Artificial Intelligence (AI)?". Google Cloud Platform. Archived from the original on 31 July 2023. Retrieved 16 October 2023.
+Reference 312: Nilsson (1983), p. 10.
+Reference 313: Haugeland (1985), pp. 112–117.
+Reference 314:
+Physical symbol system hypothesis:
+Newell & Simon (1976, p. 116)
+Historical significance:
+McCorduck (2004, p. 153)
+Russell & Norvig (2021, p. 19)
+
+Reference 315:
+Moravec's paradox:
+Moravec (1988, pp. 15–16)
+Minsky (1986, p. 29)
+Pinker (2007, pp. 190–91)
+
+Reference 316:
+Dreyfus' critique of AI:
+Dreyfus (1972)
+Dreyfus & Dreyfus (1986)
+Historical significance and philosophical implications:
+Crevier (1993, pp. 120–132)
+McCorduck (2004, pp. 211–239)
+Russell & Norvig (2021, pp. 981–982)
+Fearn (2007, Chpt. 3)
+
+Reference 317: Crevier (1993), p. 125.
+Reference 318: Langley (2011).
+Reference 319: Katz (2012).
+Reference 320:
+Neats vs. scruffies, the historic debate:
+McCorduck (2004, pp. 421–424, 486–489)
+Crevier (1993, p. 168)
+Nilsson (1983, pp. 10–11)
+Russell & Norvig (2021, p. 24)
+A classic example of the "scruffy" approach to intelligence:
+Minsky (1986)
+A modern example of neat AI and its aspirations in the 21st century:
+Domingos (2015)
+
+Reference 321: Pennachin & Goertzel (2007).
+Reference 322: Roberts (2016).
+Reference 323: Russell & Norvig (2021), p. 986.
+Reference 324: Chalmers (1995).
+Reference 325: Dennett (1991).
+Reference 326: Horst (2005).
+Reference 327: Searle (1999).
+Reference 328: Searle (1980), p. 1.
+Reference 329: Russell & Norvig (2021), p. 9817.
+Reference 330:
+Searle's Chinese room argument:
+Searle (1980). Searle's original presentation of the thought experiment.
+Searle (1999).
+Discussion:
+Russell & Norvig (2021, pp. 985)
+McCorduck (2004, pp. 443–445)
+Crevier (1993, pp. 269–271)
+
+Reference 331:
+Robot rights:
+Russell & Norvig (2021, pp. 1000–1001)
+BBC (2006)
+Maschafilm (2010) (the film Plug & Pray)
+
+Reference 332: Evans (2015).
+Reference 333: McCorduck (2004), pp. 19–25.
+Reference 334: Henderson (2007).
+Reference 335:
+The Intelligence explosion and technological singularity:
+Russell & Norvig (2021, pp. 1004–1005)
+Omohundro (2008)
+Kurzweil (2005)
+I. J. Good's "intelligence explosion"
+Good (1965)
+Vernor Vinge's "singularity"
+Vinge (1993)
+
+Reference 336: Russell & Norvig (2021), p. 1005.
+Reference 337:
+Transhumanism:
+Moravec (1988)
+Kurzweil (2005)
+Russell & Norvig (2021, p. 1005)
+
+Reference 338:
+AI as evolution:
+Edward Fredkin is quoted in McCorduck (2004, p. 401)
+Butler (1863)
+Dyson (1998)
+
+Reference 339:
+AI in myth:
+McCorduck (2004, pp. 4–5)
+
+Reference 340: McCorduck (2004), pp. 340–400.
+Reference 341: Buttazzo (2001).
+Reference 342: Anderson (2008).
+Reference 343: McCauley (2007).
+Reference 344: Galvan (1997).
