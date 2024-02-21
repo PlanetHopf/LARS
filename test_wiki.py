@@ -1,4 +1,8 @@
 import unittest
+import sys
+sys.path.append('Data Processing')  # Adjust the path accordingly
+from Wikipedia_Data import extract_references
+
 from Wikipedia_Data import extract_references
 
 class TestExtractReferences(unittest.TestCase):
