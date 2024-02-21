@@ -56,7 +56,7 @@ def write_to_file(page_title, summary, references):
         for i, ref in enumerate(references, start=1):
             file.write(f"Reference {i}: {ref}\n")
 
-page_title = input("Search Topic: ")
+page_title = "Artificial Intelligence"
 html_content = get_wikipedia_page_content(page_title)
 
 if html_content:
