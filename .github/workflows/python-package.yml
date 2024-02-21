@@ -39,3 +39,4 @@ jobs:
     - name: Test with unittest
       run: |
         python test_wiki.py
+        python test_wiki_summary.py
