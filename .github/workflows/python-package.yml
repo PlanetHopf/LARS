@@ -40,3 +40,4 @@ jobs:
       run: |
         python test_wiki.py
         python test_wiki_summary.py
+        python test_wikipedia_scraper.py
