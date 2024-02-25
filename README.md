@@ -10,7 +10,7 @@ The input is a topic and the output is the Wikipedia summary and references for 
 # Installation
 
 The installation of this code has been written in such away that you can either copy and paste from the git itself into your own ide, or you can download and open it yourself.
-The dependencies are as follows:
+The only dependencies you will need is python -m pip install BeautifulSoup4. You can copy and paste that line into your terminal if you do not have it installed.
 
 
 # Reporting Bugs
