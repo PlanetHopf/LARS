@@ -19,6 +19,6 @@ The reporting of bugs is expected to handled in issues. Please submit there.
 
 # Want to Contribute?
 
-If you would like to contribute to this project please email
+If you would like to contribute to this project please submit a pull request as a branch and we will review it for consideration.
 
 
