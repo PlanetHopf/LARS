@@ -15,8 +15,10 @@ The only dependencies you will need is python -m pip install BeautifulSoup4. You
 
 # Reporting Bugs
 
-The reporting of bugs is not expected. This will not be maintained. If you happen to read this at anytime after the year of 2024 we can only assume its a prank considering the few people who have access to this.
+The reporting of bugs is expected to handled in issues. Please submit there.
 
 # Want to Contribute?
 
-Why are you still here? 
+If you would like to contribute to this project please email
+
+
