@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+# Formats data to be sent to the api by adding url parameters.
 def get_wikipedia_page_content(page_title):
     url = "https://en.wikipedia.org/w/api.php"
     params = {
@@ -9,12 +10,13 @@ def get_wikipedia_page_content(page_title):
         "format": "json",
         "prop": "text",
         "redirects": 1,  # Ensure that redirects are followed
-    }
+    } 
 
+    
     try:
-        response = requests.get(url, params=params)
-        response.raise_for_status()
-        data = response.json()
+        response = requests.get(url, params=params) # Sends the data.
+        response.raise_for_status() # Checks for errors.
+        data = response.json() # Decodes json data into python readable format (lists and dictionaries).
 
         # Check if the response contains 'parse' key
         if 'parse' in data:
