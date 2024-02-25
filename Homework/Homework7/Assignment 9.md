@@ -8,4 +8,4 @@ License: [[link](https://github.com/PlanetHopf/LARS/blob/main/LICENSE)]
 
 Brief explanation why this license was chosen.
 
-This liscence was chosen for the ease of readability and accessibilty. Meaning, it can still be used with other projects, but we have no liability. 
+This license was chosen for the ease of readability and accessibilty. Meaning, it can still be used with other projects, but we have no liability. 
