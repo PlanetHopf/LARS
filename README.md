@@ -9,6 +9,8 @@ The manual collecting and sorting of articles presents significant problems in t
 The input is a topic and the output is the Wikipedia summary and references for that topic in a .txt file.
 # Installation
 
+The installation of this code has been written in such away that you can either copy and paste from the git itself into your own ide, or you can download and open it yourself.
+
 # Reporting Bugs
 
 
