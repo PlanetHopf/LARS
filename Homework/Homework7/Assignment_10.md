@@ -28,6 +28,9 @@ MIT License:
 This license was chosen for the ease of readability and accessibilty. Meaning, it can still be used with other projects, but we have no liability.
 ## Documentation
 - A link to a user documentation that documents all implemented features and how to use them.
+  
+  https://github.com/PlanetHopf/LARS/blob/main/README.md
+  
 - A link to the installation instructions of your project.
 
 ## Link to latest GitHub Release
