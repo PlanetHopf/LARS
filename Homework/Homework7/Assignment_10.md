@@ -1,24 +1,34 @@
 ## Name of your project
 
 ## Names of all team members 
-
+Peter Call 
+Ian Chapman
 ## GitHub URL of the repository that holds your project code
-
+https://github.com/PlanetHopf/LARS.git
 ## Project description
 A brief description of why you wrote the code, what problem it is trying to address, and anything else you think is relevant to know about your project. This should be about 100 words.
 
+The manual collecting and sorting of articles presents significant problems in the scholarly world. These problems are a lack of organization in the collection and relevance of articles in the research process, the misrepresentation of an article’s meaning, and standardization in the formatting and style for publications. Thus, the purpose of this project is to create a workshop to gain familiarity with github and git to that end. As such, the code here is very basic, to handle a simple collection of references, store that in some place, and process it for readiability. In no wise, is the expectation of this code, or rather workshop intended for anything else.
+
 ## List of must-have features of your project including their status
 Were you able to complete all basic features? If not, why not? This list should match the list you submitted in assignment 2.
+ 1. Get articles and abstracts
+ 2. Read and sort articles and abstracts by keywords
+ 3. Output relevant groupings and statistics
 
 ## List of nice-to-have features of your project including their status
 This list should have at least all features you included in assignment 2, but could have more if you added new features along the way. Nice-to-have features do not have to be completed. They may be in progress or not done yet.
+ 1. Create centralized location for sources
+ 2. Create useful visualizations and identifiers of relevant groupings and statistics
+ 3. Automate creation of text files from URL
 
 ## License
 What license did you choose and why?
-
+MIT License:
+This license was chosen for the ease of readability and accessibilty. Meaning, it can still be used with other projects, but we have no liability.
 ## Documentation
-A link to a user documentation that documents all implemented features and how to use them.
-A link to the installation instructions of your project.
+- A link to a user documentation that documents all implemented features and how to use them.
+- A link to the installation instructions of your project.
 
 ## Link to latest GitHub Release
 
