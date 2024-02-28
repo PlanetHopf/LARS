@@ -1,5 +1,7 @@
 ## Name of your project
 
+L.A.R.S. (Lexicon, Appendix, Reference, Style)
+
 ## Names of all team members 
 Peter Call   
 Ian Chapman
