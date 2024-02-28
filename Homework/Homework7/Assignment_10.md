@@ -49,4 +49,9 @@ This license was chosen for the ease of readability and accessibilty. Meaning, i
  
  - *Does your code meet the FAIR4RS Principles? If so, how does it meet the principles? If not, which principles does it not meet and why?*
 
-  
+Phone calls, github, google drive file, and google search. They worked well for comminicating and organizing. 
+
+We wouldnt have tried to work on the webscraping as heard as we did. 
+
+The next step in development would have been data analysis.
+No our does not mean FAIR4RS, specifically it does not meet the global variable condition, and does not meet community standards. 
