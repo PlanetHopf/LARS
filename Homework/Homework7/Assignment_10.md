@@ -35,6 +35,8 @@ This license was chosen for the ease of readability and accessibilty. Meaning, i
 
 ## Link to latest GitHub Release
 
+(https://github.com/PlanetHopf/LARS/releases/tag/v1.0.0)
+
 ## Zenodo DOI of the record of your code
 
 [![DOI](https://zenodo.org/badge/747956869.svg)](https://zenodo.org/doi/10.5281/zenodo.10720048)
@@ -52,6 +54,8 @@ This license was chosen for the ease of readability and accessibilty. Meaning, i
  - *Does your code meet the FAIR4RS Principles? If so, how does it meet the principles? If not, which principles does it not meet and why?*
 
 Phone calls, github, google drive file, and google search. They worked well for comminicating and organizing. 
+
+The continuous integration for bug testing was problematic. It seems like it couldn't read our files very well. We would have rather tested them old school.
 
 We wouldnt have tried to work on the webscraping as heard as we did. 
 
