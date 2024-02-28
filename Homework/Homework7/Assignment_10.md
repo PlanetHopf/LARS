@@ -37,6 +37,8 @@ This license was chosen for the ease of readability and accessibilty. Meaning, i
 
 ## Zenodo DOI of the record of your code
 
+[![DOI](https://zenodo.org/badge/747956869.svg)](https://zenodo.org/doi/10.5281/zenodo.10720048)
+
 ## A reflection of your work on the project.
 *The reflection should be about a page long. It should answer the following questions*:
  - *What processes, tools, technologies, and workflows worked well for your team? How did they improve or simplify your team work?*
