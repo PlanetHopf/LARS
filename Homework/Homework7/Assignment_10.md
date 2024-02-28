@@ -32,6 +32,7 @@ This license was chosen for the ease of readability and accessibilty. Meaning, i
   https://github.com/PlanetHopf/LARS/blob/main/README.md
   
 - *A link to the installation instructions of your project.*
+- 
   (https://github.com/PlanetHopf/LARS/blob/main/README.md)
 
 ## Link to latest GitHub Release
